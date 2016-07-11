@@ -2,6 +2,13 @@
   border-radius: 50%;
 }
 
+
+.blured {
+  -webkit-box-shadow: inset -1px -16px 90px 35px rgba(0,0,0,0.75);
+  -moz-box-shadow: inset -1px -16px 90px 35px rgba(0,0,0,0.75);
+  box-shadow: inset -1px -16px 90px 35px rgba(0,0,0,0.75);
+}
+
 .block-left {
   float: left;
   .content {
@@ -231,7 +238,7 @@ canvas {
         -ms-transform: translate(-50%, -50%);
         -o-transform: translate(-50%, -50%);
         transform: translate(-50%, -50%);
-        font-size: 30px;
+        font-size: 22px;
         color: $white;
         padding-right: 10px;
         white-space: nowrap;
