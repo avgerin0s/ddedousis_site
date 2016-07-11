@@ -21,7 +21,7 @@ kramdown:
   toc_levels:       1..6
   enable_coderay:   false
 sass:
-  sass_dir:         assets/_sass
+  sass_dir:         users/ddedousis/assets/_sass
   style:            compressed
 
 # Google Analytics
