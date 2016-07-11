@@ -1,10 +1,16 @@
 ---
 layout: home
 ---
-# About Theme
+# About Me
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+BSc telecommunication systems and networks at
+[Technological Educational Institute of Western Greece](http://www.teiwest.gr/index.php/en/).
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+MSc Computer Science at [Athens University of Economics and
+Business](http://www.aueb.gr)
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+PhD Candidate Drones in Smart Cities at [Athens University of Economics and Business](http://www.aueb.gr)
+
+Networks expert, Java aficionado, Data science enthusiast.
+
+I used to be a developer, but then I got a NullPointerException.
